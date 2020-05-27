@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Евгений Бускаров](https://up.htmlacademy.ru/javascript/20/user/354563).
+* Студент: [Евгений](https://up.htmlacademy.ru/javascript/20/user/354563).
 * Наставник: `Неизвестно`.
 
 ---
